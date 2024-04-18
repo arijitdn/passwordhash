@@ -200,7 +200,7 @@ export default function HomePage() {
               </h2>
               <p className="text-gray-500 dark:text-gray-400">
                 Learn best practices for securing your passwords and protecting
-                your users' data.
+                your users&apos; data.
               </p>
               <ul className="space-y-2 text-gray-500 dark:text-gray-400">
                 <li className="flex items-start gap-2">
@@ -244,8 +244,8 @@ export default function HomePage() {
                 integrity and trust of your application. Weak or compromised
                 passwords can lead to data breaches, identity theft, and
                 financial loss. By following best practices for password
-                security, you can safeguard your users' sensitive information
-                and build a more secure and reliable platform.
+                security, you can safeguard your users&apos; sensitive
+                information and build a more secure and reliable platform.
               </p>
             </div>
           </div>
